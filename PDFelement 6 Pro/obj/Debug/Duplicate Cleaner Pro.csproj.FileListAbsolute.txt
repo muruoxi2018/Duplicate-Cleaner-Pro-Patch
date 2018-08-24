@@ -1,0 +1,9 @@
+E:\C#\Duplicate Cleaner Pro\PDFelement 6 Pro\bin\Debug\PDFelement 6 Pro.exe.config
+E:\C#\Duplicate Cleaner Pro\PDFelement 6 Pro\bin\Debug\PDFelement 6 Pro.exe
+E:\C#\Duplicate Cleaner Pro\PDFelement 6 Pro\bin\Debug\PDFelement 6 Pro.pdb
+E:\C#\Duplicate Cleaner Pro\PDFelement 6 Pro\obj\Debug\Duplicate_Cleaner_Pro.Form1.resources
+E:\C#\Duplicate Cleaner Pro\PDFelement 6 Pro\obj\Debug\PDFelement_6_Pro.Properties.Resources.resources
+E:\C#\Duplicate Cleaner Pro\PDFelement 6 Pro\obj\Debug\Duplicate Cleaner Pro.csproj.GenerateResource.Cache
+E:\C#\Duplicate Cleaner Pro\PDFelement 6 Pro\obj\Debug\Duplicate Cleaner Pro.csproj.CoreCompileInputs.cache
+E:\C#\Duplicate Cleaner Pro\PDFelement 6 Pro\obj\Debug\PDFelement 6 Pro.exe
+E:\C#\Duplicate Cleaner Pro\PDFelement 6 Pro\obj\Debug\PDFelement 6 Pro.pdb
